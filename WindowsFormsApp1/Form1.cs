@@ -30,7 +30,7 @@ namespace WindowsFormsApp1
             double coste = 0;
 
             textoTelegrama = txtTelegrama.Text;
-            // telegrama urgente?
+            // telegrama urgente o no urgente xD
             if (rdUrgente.Checked)
                 tipoTelegrama = 'u';
 
